@@ -15,5 +15,5 @@ def findgcd(a, b):
         return findgcd(b, r)
 
 
-result = findgcd(18,24)
+result = findgcd(100,1000)
 print(result)
